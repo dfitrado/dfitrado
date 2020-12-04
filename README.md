@@ -1,4 +1,4 @@
-### Hi there, I'm Donny 👋
+## Hi there, I'm Donny 👋
 
 ### I'm a Computer Science Student!
 
