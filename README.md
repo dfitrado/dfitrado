@@ -2,7 +2,7 @@
 
 ### I'm a Forensic Technology and Discover Services Associate!
 
-- 🌱 I'm a FTDS Associate at EY
+- 🌱 I'm currently working as a FTDS Associate at EY
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🔭 How to reach me: donny.public@gmail.com
