@@ -1,10 +1,10 @@
 ## Hi there, I'm Donny 👋
 
-### I'm a Computer Science Student!
+### I'm a Forensic Technology and Discover Services Associate!
 
-- 🌱 I'm currently learning Data Science at Career Semester
+- 🌱 I'm a FTDS Associate at EY
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 🔭 How to reach me: donny.public@gmail.com
 
 
@@ -46,6 +46,6 @@
 
 [website]: http://yukkuliah-if.blogspot.com/
 [youtube]: https://youtube.com/DonnyFitrado
-[instagram]: https://www.instagram.com/mbohlahdon/
+[instagram]: https://www.instagram.com/donnyy.f/
 [linkedin]: https://www.linkedin.com/in/donnyfitrado/
 [twitter]: https://twitter.com/dfitrado
